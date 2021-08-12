@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Milestone3</string>
+    <string name="dashboard">DashBoard</string>
+    <string name="welcome">WELCOME</string>
+    <string name="adverts_near_you">Adverts near you</string>
+    <string name="food">food</string>
+    <string name="travel">Travel</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="sports">Sports</string>
+    <string name="retail">Retail</string>
+    <string name="add_adverts">add adverts</string>
+    <string name="add">add</string>
+</resources>
