@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Home"
+        android:id="@+id/action_home"
+        android:icon="@drawable/home_icon"/>
+
+    <item
+        android:title="person"
+        android:id="@+id/action_person"
+        android:icon="@drawable/person_icon"/>
+
+    <item
+        android:title="camera"
+        android:id="@+id/action_camera"
+        android:icon="@drawable/camera_icon"/>
+
+    <item
+        android:title="phone"
+        android:id="@+id/action_phone"
+        android:icon="@drawable/phone_icon"/>
+</menu>
